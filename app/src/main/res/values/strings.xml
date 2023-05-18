@@ -1,0 +1,13 @@
+<resources>
+
+
+    <string name="app_name">ExoPlayer Latest 2023 Full</string>
+    <string name="select_quality">Select Quality</string>
+
+
+    <!--    <string name="exo_track_selection_title_audio">audio</string>-->
+<!--    <string name="exo_track_selection_title_text">txt</string>-->
+<!--    <string name="exo_track_selection_title_video">vid</string>-->
+
+
+</resources>
